@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
 </div>
 
-<br>
+<br />
 ## My Statistics:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Ily-1606&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/Ily-1606?tab=repositories)
