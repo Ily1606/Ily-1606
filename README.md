@@ -1,6 +1,6 @@
 ## Hi there, I'm Ily1606 👋
 
-[![Ily1606](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://sanchitbajaj02.github.io/portfolio/)
+[![Ily1606](https://img.shields.io/website?color=blue&label=Ily1606&style=flat&up_message=Online&url=https://www.facebook.com/Ily1606)](https://www.facebook.com/Ily1606)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ily1606&color=blue&logo=flat)
 [![Facebook](https://img.shields.io/badge/Ily1606-black?style=flat&logo=Facebook&logoColor=blue/)](https://wwww.facebook.com/Ily1606)
 [![Instagram](https://img.shields.io/badge/Ily1606-black?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/Ily1606/)
