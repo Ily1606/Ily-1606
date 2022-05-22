@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Vue.js and Prisma
 - 👯 I’m looking to collaborate on JavaScript projects
 - 💬 Ask me about PHP, Vue.js, NuxtJS, TailwindCSS and JavaScript
-- 📫 How to reach me: <a href="mailto:khuonmatdangthuong45@gmail.com">khuonmatdangthuong45@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:Ily1606@duck.com">Ily1606@duck.com</a>
 - ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
 <br>
